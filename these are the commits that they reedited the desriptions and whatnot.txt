@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 c5f1c537f1f021c15df8d878e58b35168259e989 BurntError <55047921+BurntError@users.noreply.github.com> 1574259224 -0900	commit (initial): logs
+c5f1c537f1f021c15df8d878e58b35168259e989 c5f1c537f1f021c15df8d878e58b35168259e989 BurntError <55047921+BurntError@users.noreply.github.com> 1592197092 -0800	checkout: moving from master to 200614
+c5f1c537f1f021c15df8d878e58b35168259e989 6f879abec6e594da4809afce0c78326d2108f6c5 BurntError <55047921+BurntError@users.noreply.github.com> 1592205679 -0800	commit: adding to it
+6f879abec6e594da4809afce0c78326d2108f6c5 1b1791b0df8537b437af133f4dc44f76c12b9abc BurntError <55047921+BurntError@users.noreply.github.com> 1592206355 -0800	commit: Update txt
+1b1791b0df8537b437af133f4dc44f76c12b9abc 6173838f7f7749002db27df52a7ca10bbb1db9c6 BurntError <55047921+BurntError@users.noreply.github.com> 1596718514 -0800	commit: uh... hello
+6173838f7f7749002db27df52a7ca10bbb1db9c6 6173838f7f7749002db27df52a7ca10bbb1db9c6 BurntError <55047921+BurntError@users.noreply.github.com> 1599735303 -0800	reset: moving to HEAD
+6173838f7f7749002db27df52a7ca10bbb1db9c6 c5f1c537f1f021c15df8d878e58b35168259e989 BurntError <55047921+BurntError@users.noreply.github.com> 1599735306 -0800	checkout: moving from 200614 to fall
+c5f1c537f1f021c15df8d878e58b35168259e989 ac4684834e2b43625131c401d79f9ff05a527ef6 BurntError <55047921+BurntError@users.noreply.github.com> 1599735408 -0800	commit: fall
+ac4684834e2b43625131c401d79f9ff05a527ef6 3dd32f0d9ec61285da67d9790ae07b1a2a2712b8 BurntError <55047921+BurntError@users.noreply.github.com> 1601274511 -0800	commit: getting pretty faustus here tabby
+3dd32f0d9ec61285da67d9790ae07b1a2a2712b8 a37958e83b7b87ea357d2b9175c816f6acc859e8 BurntError <55047921+BurntError@users.noreply.github.com> 1603692564 -0800	commit: gahh
+a37958e83b7b87ea357d2b9175c816f6acc859e8 24306c231b28f6be561be9728a2b5569f0c4f5ec BurntError <55047921+BurntError@users.noreply.github.com> 1603762252 -0800	commit: terrorists
+24306c231b28f6be561be9728a2b5569f0c4f5ec 393852a53faf9583844c0523da402eace4f3d4d6 BurntError <55047921+BurntError@users.noreply.github.com> 1604280163 -0900	commit: here we go getting schooled in november
+393852a53faf9583844c0523da402eace4f3d4d6 12f6be4e1da9a76f341ee60073e3c9f5d3b1294e BurntError <55047921+BurntError@users.noreply.github.com> 1605162486 -0900	commit: why does doctor al gross fro bc look exactly like floyd doyle
+12f6be4e1da9a76f341ee60073e3c9f5d3b1294e fe871116bbd719541e9f45c6f2db0080c2ea9b8c BurntError <55047921+BurntError@users.noreply.github.com> 1605257937 -0900	commit: Bournes not stealing papers out of puffs are they
+fe871116bbd719541e9f45c6f2db0080c2ea9b8c 9322bfea6d829cd2318f7b8d7b3a11dccca7330c BurntError <55047921+BurntError@users.noreply.github.com> 1605521630 -0900	commit: leslie and nancy ?
+9322bfea6d829cd2318f7b8d7b3a11dccca7330c 68d29efed51428739eb61bc745f0039f593ca042 BurntError <55047921+BurntError@users.noreply.github.com> 1606212258 -0900	commit: update
+68d29efed51428739eb61bc745f0039f593ca042 47d03df2f96ee88c428f278e9c10ab7c5fb9416e BurntError <55047921+BurntError@users.noreply.github.com> 1606672377 -0900	commit: 201129
+47d03df2f96ee88c428f278e9c10ab7c5fb9416e 5d95a4032dd8eadb4aad29d14d268f4ddce94412 BurntError <55047921+BurntError@users.noreply.github.com> 1607276858 -0900	commit: edit
+5d95a4032dd8eadb4aad29d14d268f4ddce94412 eed41ec592e0547c7348532f6066eecf78ab0bc0 BurntError <55047921+BurntError@users.noreply.github.com> 1607930898 -0900	commit: ?
+eed41ec592e0547c7348532f6066eecf78ab0bc0 eed41ec592e0547c7348532f6066eecf78ab0bc0 BurntError <55047921+BurntError@users.noreply.github.com> 1608694644 -0900	checkout: moving from fall to winter
+eed41ec592e0547c7348532f6066eecf78ab0bc0 7acdf1e239269401ff21d38367455c1609868fc2 BurntError <55047921+BurntError@users.noreply.github.com> 1608694655 -0900	commit: xmas special
+7acdf1e239269401ff21d38367455c1609868fc2 7355681e2043f0c3e95dcf2ac762171575fdc28c BurntError <55047921+BurntError@users.noreply.github.com> 1609418301 -0900	commit: liquid nails
